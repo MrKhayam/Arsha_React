@@ -5,7 +5,7 @@ import { MdOutlinePlayCircleOutline } from "react-icons/md";
 const Hero = () => {
   return (
     <>
-      <div className="w-full border-t h-full bg-[#37517E]">
+      <div className="w-full border-t h-auto bg-[#37517E]">
       <div className="md:w-[80%] w-[90%] mx-auto h-full grid md:mt-10 mt-16 grid-r grid-cols-12 items-center ">
         <div className="md:col-span-6 col-span-12 md:order-1 order-2">
             <h1 className='text-white font-bold sm:text-5xl text-3xl'>Better Solutions for Your Business</h1>
