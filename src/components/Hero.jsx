@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <>
       <div className="w-full border-t h-auto min-h-[105vh] bg-[#37517E]">
-      <div className="md:w-[80%] w-[90%] mx-auto h-full grid md:mt-10 mt-20 grid-r grid-cols-12 gap-y-3 items-center ">
+      <div className="md:w-[80%] w-[90%] mx-auto h-full grid md:pt-10 pt-20 grid-r grid-cols-12 gap-y-3 items-center ">
         <div className="md:col-span-6 col-span-12 md:order-1 order-2">
             <h1 className='text-white font-bold sm:text-5xl text-3xl'>Better Solutions for Your Business</h1>
             <h1 className='text-gray-300 font-semibold mt-1 text-xl md:text-2xl'>We are team of talented designers making websites with Bootstrap</h1>
